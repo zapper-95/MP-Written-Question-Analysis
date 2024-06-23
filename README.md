@@ -3,7 +3,7 @@
 # Computational Modelling in the Humanties and Social Sciences (CMHSS)
 
 ## Overview
-In this coursework I explored regional differences between questions asked by MPs in the UK. I have outlined may main results briefly and detailed how to reproduce them with the code. If you find this interesting, for a more comprehensive description of my method and results can be read in `jbtl68 - assignment.pdf`. My submission for the coursework received 82/100.
+In this coursework I explored regional differences between questions asked by MPs in the UK. I have outlined my main results briefly and detailed how to reproduce them with the code. For a more comprehensive description of my method and results please read `jbtl68 - assignment.pdf`. My submission for the coursework received 82/100.
 
 
 ### Question 1
